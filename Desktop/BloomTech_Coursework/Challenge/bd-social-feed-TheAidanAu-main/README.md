@@ -1,4 +1,4 @@
-## Social Feed App
+## Social Feed App Project
 
 This is an application that keeps track of `User`s and their social media `Post`s
 and allows users to follow one another to view each other's posts in their personalized

@@ -7,7 +7,7 @@ public class App {
 
     public static final String USER_FILE_PATH = "src/resources/UserData.json";
     public static final String POST_FILE_PATH = "src/resources/PostData.json";
-
+    //comment.
     public static void main(String[] args) {
         SeedData.run();
     }
