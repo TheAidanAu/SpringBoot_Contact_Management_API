@@ -8,7 +8,7 @@ import java.util.Optional;
 
 @Repository
 public interface ContactRepository extends JpaRepository<Contact, Long> {
-    // JpaRepository has most comment CRUD operations
+    // JpaRepository has most common CRUD operations
 
     Optional<Contact> findByFirstName(String firstName);
 

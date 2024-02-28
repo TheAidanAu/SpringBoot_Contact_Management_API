@@ -7,7 +7,8 @@ import javax.persistence.*;
 public class Contact {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY) // technically any of them
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    // technically any of the enums can be used for every database/data source
     private Long id;
 
     @Column(name = "first_name")
