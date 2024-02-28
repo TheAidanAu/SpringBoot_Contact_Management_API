@@ -1,5 +1,5 @@
 ## Spring Boot Contact Management API
-This repository contains the source code for [a simple contact management API]([url](https://github.com/TheAidanAu/SpringBoot_Contact_Management_API/blob/sprint8/Desktop/SpringBootStarter-main/src/main/java/com/decadev/controllers/ContactController.java)) built using Spring Boot. The API allows users to perform CRUD (Create, Read, Update, Delete) operations on a collection of contacts stored in a database.
+This repository contains the source code for [a simple contact management API](https://github.com/TheAidanAu/SpringBoot_Contact_Management_API/blob/sprint8/Desktop/SpringBootStarter-main/src/main/java/com/decadev/controllers/ContactController.java) built using Spring Boot. The API allows users to perform CRUD (Create, Read, Update, Delete) operations on a collection of contacts stored in a database.
 
 ## Features:
 Find All Contacts: Retrieve a list of all contacts stored in the database.
