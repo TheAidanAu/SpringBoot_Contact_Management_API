@@ -12,6 +12,9 @@ Update Contact: Update an existing contact in the database.
 
 ## Endpoints:
 GET /contacts: Retrieve all contacts.
+
 POST /contacts: Add a new contact.
+
 DELETE /contacts/{id}: Delete a contact by ID.
+
 PUT /contacts/{id}: Update a contact by ID.
