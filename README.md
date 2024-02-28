@@ -3,8 +3,11 @@ This repository contains the source code for a simple contact management API bui
 
 ## Features:
 Find All Contacts: Retrieve a list of all contacts stored in the database.
+
 Save Contact: Add a new contact to the database.
+
 Delete Contact: Remove a contact from the database by its ID.
+
 Update Contact: Update an existing contact in the database.
 ## Technologies Used:
 Spring Boot: A powerful framework for building Java-based web applications.
